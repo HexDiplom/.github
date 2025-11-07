@@ -25,6 +25,7 @@
 - [Vitest](https://vitest.dev/) - Фреймворк для тестирования TypeScript
 - [Playwright](https://playwright.dev/) - Фреймворк для e2e тестов
 - [Biome](https://biomejs.dev/) - Современный форматтер и линтер
+- [Husky](https://typicode.github.io/husky/) - Автоматический запуск линтера перед коммитами
 
 ### Бекенд
 
