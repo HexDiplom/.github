@@ -23,7 +23,7 @@
 - [Axios](https://axios-http.com/docs/intro) - HTTP клиент для обращения к API
 - [Vite](https://vite.dev/) - Инструмент для сборки и разработки веб приложений на TypeScript
 - [Vitest](https://vitest.dev/) - Фреймворк для тестирования TypeScript
-- [Playwright](https://playwright.dev/) - Фреймворка для e2e тестов
+- [Playwright](https://playwright.dev/) - Фреймворк для e2e тестов
 
 ### Бекенд
 
