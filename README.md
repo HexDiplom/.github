@@ -24,6 +24,7 @@
 - [Vite](https://vite.dev/) - Инструмент для сборки и разработки веб приложений на TypeScript
 - [Vitest](https://vitest.dev/) - Фреймворк для тестирования TypeScript
 - [Playwright](https://playwright.dev/) - Фреймворк для e2e тестов
+- [Biome](https://biomejs.dev/) - Современный форматтер и линтер
 
 ### Бекенд
 
